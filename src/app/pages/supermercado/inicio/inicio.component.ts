@@ -11,6 +11,7 @@ export class InicioComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  //Update names
 
     //=========== SEGURIDAD ==============
     //Aplicada en productos.guard y agregada en el routing
